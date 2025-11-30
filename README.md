@@ -1,3 +1,3 @@
 # Eymen-scratch-project
-Scratch games created by Eymen (age 9). Parent managed. 
+Scratch games created by Eymen. 
 https://scratch.mit.edu/projects/1249661270
